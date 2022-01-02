@@ -1,37 +1,27 @@
-= Page 1
-:imagesdir: ../assets/img/dir-example
+= InvestingKids
 
-== This is Example Header 2
+== Description
 
-This is Example Paragraph
+==== Какую проблему данный проект решает или что нового приносит для пользователей?
 
-image::example.png[This is alternative text]
+* Помогает детям с раннего возраста осваивать основные принципы инвестиций.
+* Учит детей финансовой грамоте.
+* В игровой форме учит управлять виртуальными денежными средствами.
+* Формирует понятие управления финансовыми инструментами в детской форме.
 
-== This is Example Header 2
+==== Потенциальные пользователи
 
-.This is Example Table
-[options="header"]
-|===
-|1.1|1.2|1.3
-|2.1|2.2|2.3
-|===
+* Дети от 10 - 11 лет.
+* Родители.
+* Учителя и преподаватели.
 
-== This is Example Header 2
+==== Аналогичные приложения
 
-This is Example Code:
+* Накопительная программа «Детский инвестиционный портфель»
+* primeonline.by (Программа "Финансовая грамотность
+для детей")
 
-[source,shell script]
-----
-This is shell script (for CLI)
-----
+==== Конкурентное преимущество
 
-This is Example Code:
-
-[source,java]
-----
-public class Example {
-    public static void main(String[] args){
-        System.out.println("This is example for java code");
-    }
-}
-----
+* Отсутствие аналогичных сервисов.
+* Простота, удобство и понятность.
